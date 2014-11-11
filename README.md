@@ -25,3 +25,5 @@ is unavoidable, it is the student’s responsibility to come in on the off day t
 up any work missed.   If you choose not to do so, any assigned work that is graded the next day that the student doesn’t 
 have will be considered late and you will receive a zero.  If you miss the day of a test, it is your responsibility to make
 it up before the next class period.
+
+This will be a fun year!
